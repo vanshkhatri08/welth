@@ -7,10 +7,6 @@ A powerful, secure, and beautiful AI-powered finance tracking platform built usi
 
 Live Link 👉 [welthaifinance.vercel.app](https://welthaifinance.vercel.app/)
 
-![Screenshot](https://github.com/user-attachments/assets/1bc50b85-b421-4122-8ba4-ae68b2b61432)
-
----
-
 ## 🚀 Tech Stack
 
 - **Frontend**: Next.js 14, Tailwind CSS, Shadcn UI
